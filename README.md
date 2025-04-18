@@ -60,8 +60,8 @@ I'm Ghada! Driven by a passion for artificial intelligence, I am eager to apply 
 
 #### **DevOps & Version Control:**
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Prometheus_software_logo.svg" width="40" alt="Prometheus" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grafana_icon.svg" width="40" alt="Grafana" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" width="40" alt="Prometheus" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="40" alt="Grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
