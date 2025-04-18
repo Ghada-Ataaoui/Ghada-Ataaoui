@@ -46,7 +46,6 @@ I'm Ghada! Driven by a passion for artificial intelligence, I am eager to apply 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Scipy_logo.svg/256px-Scipy_logo.svg.png" width="40" alt="SciPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib" />
@@ -71,3 +70,7 @@ I'm Ghada! Driven by a passion for artificial intelligence, I am eager to apply 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ghada-Ataaoui&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=Ghada-Ataaoui&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghada-Ataaoui&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
