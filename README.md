@@ -12,7 +12,7 @@ I'm Ghada! Driven by a passion for artificial intelligence, I am eager to apply 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 
-# 🛠️ 💻 Technical Skills
+# 🛠️ 💻 Technical Skills:
 
 #### **Programming Languages, Libraries & Frameworks:**
 <p>
